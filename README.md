@@ -113,24 +113,6 @@ It's not necessary until you host the bot. You can get the String Session after 
 > Developers aka Contributors for the Project.  
 > [![Contributors](https://img.shields.io/github/contributors/TeamAsteryX/Asteryx?style=flat-square&color=orange)](https://github.com/TeamAsteryX/Asteryx/graphs/contributors)
 
-## Credits
-
-> - <a href="https://www.github.com/EverythingSuckz">    EverythingSuckz    </a>
-> - <a href="https://www.github.com/StarkGang">          StarkGang          </a>
-> - <a href="https://www.github.com/BilakshanP">         BilakshanP         </a>
-> - <a href="https://www.github.com/Reeshuxd">           Reeshuxd           </a>
-> - <a href="https://www.github.com/Rohithaditya">       Rohithaditya       </a>
-> - <a href="https://www.github.com/StarkBotIndustries"> StarkBotIndustries </a>
-> - <a href="https://www.github.com/sohag02">            sohag02            </a>
-> - <a href="https://www.github.com/SHRE-YANSH">         SHRE-YANSH         </a>
-> - <a href="https://www.github.com/lostb053">           lostb053           </a>
-> - <a href="https://www.github.com/Nksama">             Nksama             </a>
-> - <a href="https://www.github.com/Crackexy">           Crackexy           </a>
-> - <a href="https://www.github.com/anonyindian">        anonyindian        </a>
-> - <a href="https://www.github.com/N0BLEWOLF">          N0BLEWOLF          </a>
-> - <a href="https://www.github.com/ramanveerji">        ramanveerji        </a>
-> - <a href="https://www.github.com/swatv3nub ">         swatv3nub          </a>
-
 <p align="center">
   <img width="500" src="https://te.legra.ph/file/7e35d8f301fe11c8c6bef.jpg">
 </p>
